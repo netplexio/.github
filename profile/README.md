@@ -9,6 +9,8 @@
 A distributed network **digital twin, execution & automation** platform.
 Built in Australia 🇦🇺 by network engineers, for engineers who've outgrown EVE-NG.
 
+🟠 **Early Access is open** — [join the waitlist](https://netplex.io) to get in first.
+
 [![Website](https://img.shields.io/badge/Website-netplex.io-ff7a45?style=for-the-badge)](https://netplex.io)
 [![Knowledge Base](https://img.shields.io/badge/Docs-Knowledge%20Base-4a9eff?style=for-the-badge)](https://netplex.io/kb.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-netplexio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/netplexio)
@@ -50,7 +52,7 @@ Design a topology on a visual canvas, boot **real vendor NOS images** (Cisco, Ju
 | **Architect** | AUD $49.99 | + the automation toolbox — API, Terraform, Ansible, CI, QoS, metrics |
 | **Australian Schools** | Free | Every AU primary & secondary school — software installed, teachers trained |
 
-→ Full comparison at **[netplex.io/pricing](https://netplex.io/pricing.html)**
+→ Full comparison at **[netplex.io/pricing](https://netplex.io/pricing.html)** (pricing is live; the appliance download opens to Early Access members first)
 
 ## Roadmap
 
