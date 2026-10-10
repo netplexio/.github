@@ -4,15 +4,13 @@
 
 # netplex.
 
-### The modern network lab — **Emulate. Automate. Ship.**
+### Build the network in your head. Watch it come alive.
 
-A distributed network **digital twin, execution & automation** platform.
-Built in Australia 🇦🇺 by network engineers, for engineers who've outgrown EVE-NG.
+A network lab that gets out of your way - real routers, switches and firewalls,<br/>running on your own hardware, right in your browser.
 
-🟠 **Early Access is open** — [join the waitlist](https://netplex.io) to get in first.
+🟠 **Now in beta, and free while it lasts.**
 
 [![Website](https://img.shields.io/badge/Website-netplex.io-ff7a45?style=for-the-badge)](https://netplex.io)
-[![Knowledge Base](https://img.shields.io/badge/Docs-Knowledge%20Base-4a9eff?style=for-the-badge)](https://netplex.io/kb.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-netplexio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/netplexio)
 [![X](https://img.shields.io/badge/Follow-@netplexio-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/netplexio)
 [![YouTube](https://img.shields.io/badge/YouTube-@netplexio-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@netplexio)
@@ -21,56 +19,26 @@ Built in Australia 🇦🇺 by network engineers, for engineers who've outgrown 
 
 ---
 
-## What is Netplex?
+## Why netplex
 
-**Netplex** is a modern network lab — a distributed **digital twin** of your network that you can design, boot, and automate from the browser. Think *GNS3 + EVE-NG + Terraform + NetBox*, rebuilt as one API-first, event-driven platform.
+- **No permission fixing** - copy an image in and it simply works.
+- **Drop it in, walk away** - images placed in the uploads folder are recognised and ready in seconds.
+- **Built on trusted foundations** - QEMU/KVM, Docker and Open vSwitch under the hood.
+- **A canvas that feels like yours** - your choice of device looks, link styles, auto-layout and presentation mode.
+- **See your protocols move** - links light up as CDP, LLDP, OSPF, BGP and more cross them.
+- **Real-world imperfection** - add delay, jitter, loss or bandwidth limits to any link, live.
+- **No licences to start** - FRR, VyOS, Open vSwitch and Alpine are one click away.
+- **Every lab in git** - keep its history locally or push it to GitHub, GitLab or your own server.
+- **AI-ready** - MCP support, so an AI assistant such as Claude Code can help run your lab.
 
-Design a topology on a visual canvas, boot **real vendor NOS images** (Cisco, Juniper, Arista, Fortinet, Palo Alto, and more) as actual QEMU/KVM VMs and containers — not simulations — then drive the whole thing through a REST + WebSocket API. No client to install.
-
-- 🎨 **Visual canvas** — drag-and-drop topologies, live link activity, in-browser terminals and packet capture
-- ⚡ **Real emulation** — QEMU/KVM VMs, Docker containers, and Linux namespaces; up to 1,000 nodes per lab
-- 🔌 **API-first** — every capability exposed over REST + WebSocket, CI/CD-ready from day one
-- 🤖 **Automation-native** — Terraform provider, Ansible collection, QoS shaping, and a metrics dashboard
-- 🧪 **Lab superpowers** — snapshots, fault injection, presentation mode, and one-click **EVE-NG import**
-- 🌐 **IPv6 first-class** — OSPFv3, BGP4+, SRv6, dual-stack out of the box
-
-## Why engineers switch from EVE-NG / GNS3
-
-| | EVE-NG / GNS3 | **netplex.** |
-|---|---|---|
-| Access | Local client / limited browser | **Fully browser-native** — nothing to install |
-| Automation | Bolt-on / partial API | **API-first**, event-driven, CI-ready |
-| Image handling | Manual convert + fix permissions | **Auto** detect, convert, and boot |
-| Scale | Single host | Large single-host labs today · **multi-host on the roadmap** |
-
-## Editions
-
-| Tier | Price | For |
-|---|---|---|
-| **Associate** | Free forever | 1,000 nodes/lab, canvas, live terminal, packet capture, tool nodes |
-| **Professional** | AUD $19.99 | + snapshots, fault injection, any Docker image, presentation mode |
-| **Architect** | AUD $49.99 | + the automation toolbox — API, Terraform, Ansible, CI, QoS, metrics |
-| **Australian Schools** | Free | Every AU primary & secondary school — software installed, teachers trained |
-
-→ Full comparison at **[netplex.io/pricing](https://netplex.io/pricing.html)** (pricing is live; the appliance download opens to Early Access members first)
-
-## Roadmap
-
-We ship honestly. On the near-term roadmap (planned / beta, **not yet shipped**):
-
-- **Distributed multi-host VXLAN multi-chassis fabric** — scale a single topology across multiple bare-metal hosts with VXLAN inter-node links.
-- Deeper AI/MCP integration for lab automation.
-
-See the live **[roadmap](https://netplex.io/roadmap.html)**.
+**See it all at [netplex.io](https://netplex.io).**
 
 ---
 
 <div align="center">
 
-**[netplex.io](https://netplex.io)** · [Knowledge Base](https://netplex.io/kb.html) · [Pricing](https://netplex.io/pricing.html) · [Roadmap](https://netplex.io/roadmap.html)
+**[netplex.io](https://netplex.io)** · [Knowledge Base](https://netplex.io/kb.html) · [Roadmap](https://netplex.io/roadmap.html)
 
-[LinkedIn](https://www.linkedin.com/company/netplexio) · [X](https://x.com/netplexio) · [YouTube](https://www.youtube.com/@netplexio)
-
-<sub>Designed in Australia 🇦🇺 by network engineers.</sub>
+<sub>Made in Australia 🇦🇺 by network engineers.</sub>
 
 </div>
